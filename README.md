@@ -66,8 +66,6 @@ This project is an IoT-based environmental monitoring system that measures **tem
 - Integrate with **Blynk or MQTT** for advanced IoT capabilities.
 - Use a **more advanced air quality sensor** for better accuracy.
 
-## Author
-Spandan Panda - IoT & Embedded Systems Enthusiast
 
 ---
 
